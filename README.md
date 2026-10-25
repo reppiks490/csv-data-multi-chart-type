@@ -17,3 +17,8 @@ Cash index / CFD / future for the same tape are sibling venues under one asset (
 Source zip still in this repo: `Csv indexes.zip`.
 The other three archives live in `reppiks490/multi-level-csv`.
 Query a MANIFEST rather than walking files.
+
+## License and ownership
+
+Copyright (c) 2026 reppiks490. **Proprietary — all rights reserved.**
+Public visibility does not grant permission to reuse, redistribute, sell, or claim this work as your own. Written permission is required except where applicable law, existing grants, third-party terms, or GitHub's terms provide otherwise. See [LICENSE.md](LICENSE.md) for the full notice and permission requests.
